@@ -1,5 +1,7 @@
 # SPA-UNIVERSE
 adicionando rotas ao Projeto SPA-UNIVERSE
+
+Projeto desenvolvido duranre o desafio do STAGE 06  do explorer..!
 # Tecnologias usadas 
 *HTML5
 *CC3
